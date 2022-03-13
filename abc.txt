@@ -1,7 +1,4 @@
-noi dung
-<<<<<<< HEAD
+
 noi dung aaaaaa sap bi confilct
 noi dung 3 sap bi conflict
 aaaa
-=======
->>>>>>> 35aa878b0e8720055020d032bccfb76c991d5963
